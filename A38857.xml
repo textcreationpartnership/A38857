@@ -1,0 +1,1987 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the number of Parliament-men in England and Wales, and the Cinque-Ports; with the places where they are chosen. The whole number is 513.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38857</idno>
+            <idno type="STC">Wing E3576A</idno>
+            <idno type="STC">ESTC R213656</idno>
+            <idno type="EEBO-CITATION">99825986</idno>
+            <idno type="PROQUEST">99825986</idno>
+            <idno type="VID">30378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the number of Parliament-men in England and Wales, and the Cinque-Ports; with the places where they are chosen. The whole number is 513.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by William Berry, at the sign of the Globe between Charing-cross and Whitehall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:30378:1"/>
+               <pb facs="tcp:30378:1"/>
+An Exact ACCOUNT OF THE NUMBER OF Parliament-men IN <hi>England</hi> and <hi>Wales,</hi> And the <hi>Cinque-Ports;</hi>
+            </p>
+            <p>With the Places where they are choſen.</p>
+            <p>The whole Number is 513.</p>
+            <p>Sold by <hi>William Berry,</hi> at the Sign of the Globe between <hi>Charing-croſs</hi> and <hi>Whitehall.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb n="2" facs="tcp:30378:2" rendition="simple:additions"/>
+            <head>
+               <hi>The SHIRES of</hi> England <hi>and</hi> Wales <hi>alphabetical, with their Numbers that each Shire ſends to ſit in Parliament; alſo the Barons of the</hi> Cinque-Ports.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>BEdfordſhire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Berk-ſhire</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Buckinghamſhire</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Cambridg-ſhire</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Cheſhire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Cornwall</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Cumberland</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Derbyſhire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Devonſhire</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Dorſetſhire</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Durham</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Eſſex</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Gloceſter-ſhire</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Herefordſhire</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Hertfordſhire</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Huntingdonſhire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Kent</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Lancaſter</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Leiceſterſhire</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Lincolnſhire</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Middleſex</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Monmouthſhire</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Norfolk</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Northamptonſhire</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Northumberland</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Nottinghamſhire</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Oxfordſhire</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Rutland</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Salop <hi>alias</hi> Shropſhire</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Somerſetſhire</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Southampton, <hi>alias</hi> Hantſhire</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Staffordſhire</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Suffolk</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Surrey</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Suſſex</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Warwick-ſhire</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Weſtmerland</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Wiltſhire</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Worceſterſhire</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>York-ſhire</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Barons of the</hi> Cinque-Ports</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In</hi> Wales</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>In all</hi>
+                     </cell>
+                     <cell role="total">513</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="list">
+            <pb n="3" facs="tcp:30378:2"/>
+            <head>
+               <hi>The Names of the Counties, Cities, Bo<g ref="char:EOLhyphen"/>roughs, and Cinque-Ports, ſending Knights, Citizens, Burgeſſes and Ba<g ref="char:EOLhyphen"/>rons to the Parliament of</hi> England.</head>
+            <p>
+               <table>
+                  <head>
+                     <hi>Bedfordſhire</hi> IV.</head>
+                  <row>
+                     <cell>KNights of Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Bedford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Berkſhire</hi> IX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>New Windſor</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Reading</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Wallingford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Abington</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Buckinghamſhire</hi> IVX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Borough and Pariſh of <hi>Buckingham</hi>
+                     </cell>
+                     <cell rows="2">2</cell>
+                     <cell>Lord <hi>Latimer,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Richard Temple.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Chipping Wiccomb</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>Sir <hi>Jo. Burlace, Th. Lewes,</hi> Eſq.</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Alisbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>Sir <hi>Th. Leigh,</hi> Sir <hi>Ric. Ingo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s by.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Agmondſham</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Alg. Sidny,</hi> Eſq. Sir <hi>Rog. Hill.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Wendover</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Ric. Hambden, E. Bact<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>el</hi> Eſqs.</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Marlow</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>Sir <hi>H. Winoh, Jo. Burlace,</hi> Eſq.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:30378:3"/>
+               <table>
+                  <head>
+                     <hi>Cambridg<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ire</hi> VI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Univerſity of <hi>Cambridg</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Cambridg</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Cheſhire</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Cheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Cornwall</hi> XLIV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Dunhivi,</hi> alias <hi>Lanceſton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Leskard</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Liſtwithial</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Truro</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Bodmyn</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Helſton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Saltaſh</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Gamelford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Port-Pingham,</hi> alias <hi>VVeſtlow</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Crampound</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Eaſtlow</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Penryn</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Tregoney</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Boſſiney</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>St. Ives</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Fowey</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>St. Germains</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>St. Michael</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:30378:3"/>
+               <table>
+                  <row>
+                     <cell>Borough of <hi>Newport</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>St. Maws</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Kellington</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Cumberland</hi> VI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Carlile</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Cockermouth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Derbyſhire</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Derby</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Devonſhire</hi> XXVI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Exeter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Totneſs</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Plymouth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town and Borough of <hi>Okehampton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Barnſtable</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Plympton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Honyton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Taviſtock</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Aſhburton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Clifton, Dart<g ref="char:EOLhyphen"/>mouth,</hi> &amp; <hi>Hardneſs</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Beeralſton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Tiverton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:30378:4"/>
+               <table>
+                  <head>
+                     <hi>Dorcetſhire</hi> XX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Pool</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Dorcheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Lime-Regis</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Weymouth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Melcom-Regis</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Bridport</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Shaftsbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>VVareham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Corf-Caſtle</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Durham</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Durham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Eſſex</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Colcheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Malden</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Harwich</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Gloceſterſhire</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Gloceſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Cirenceſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Tukesbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Herefordſhire</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <pb facs="tcp:30378:4"/>
+                  <row>
+                     <cell>City of <hi>Hereford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Lempſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Weobly</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Hertfordſhire</hi> VI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>St. Albans</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Hertford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Huntingdonſhire</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Huntingdon</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Kent</hi> X.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Canterbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Rocheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Maidſtone</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Queenborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Lancaſter</hi> XIV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough or Town of <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough or Town of <hi>Pre<g ref="char:EOLhyphen"/>ſton</hi> in <hi>Aunderneſs</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Newton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Wigon</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Clithero</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Liverpool</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:30378:5"/>
+               <table>
+                  <head>
+                     <hi>Leiceſterſhire</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Leiceſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Lincolnſhire</hi> XII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Lincoln</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Boſton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Great Grimsby</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Stamford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Grantham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Middleſex</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>LONDON</hi>
+                     </cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>VVeſtminſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Monmouthſhire</hi> III.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Monmouth</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Norfolk</hi> XII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Norwich</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Lyn-Regis</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Great Yarmouth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Thetford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Caſtle-riſing</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Northamptonſhire</hi> IX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Peterborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Northampton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Brackley</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>or. of <hi>Higham-Ferrers</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:30378:5"/>
+               <table>
+                  <head>
+                     <hi>Northumberland</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Newcaſtle upon Tine</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Morpeth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Berwick upon Tweed</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Nottinghamſhire</hi> VIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Nottingham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Eaſtretford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Newark</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fordſhire</hi> IX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Univerſity of <hi>Oxford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Oxford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>New-Woodſtock</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Banbury</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Rutland</hi> II.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Salop, alias Sbropſhire</hi> XII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Salop,</hi> alias <hi>Shrewsbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <pb facs="tcp:30378:6"/>
+                  <row>
+                     <cell>Borough of <hi>Bruges,</hi> alias <hi>Bridgnorth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Ludlow</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Great Wenlock</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Biſhops-Caſtle</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Somerſetſhire</hi> XVIII.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Briſtol</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Bath</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Wells</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Taunton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Bridgwater</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Minehead</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Ilceſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>Milborn-Port</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Southampton, Alias Hantſhire</hi> XXVI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Wincheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Southampton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Portſmouth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Yarmouth,</hi> in the Iſle of <hi>Wight</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Petersfield</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Newport,</hi> alias <hi>Medona</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Stockbridg</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Newtown</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Chriſtchurch</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Whitchurch</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Limington</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Andover</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:30378:6"/>
+               <table>
+                  <head>
+                     <hi>Staffordſhire</hi> X.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Litchfield</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Stafford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Newcaſtle under Line</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Tamworth</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Suffolk</hi> XVI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Ipſwich</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Dunwich</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Orford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Alborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Sudbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Eye</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Bor. of <hi>St. Edmondsbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Surry</hi> XIV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Southwark</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Blechingly</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Rygate</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Guilford</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Gatton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Haſlemere</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Suſlex</hi> XX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Chicheſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <pb facs="tcp:30378:7"/>
+                  <row>
+                     <cell>Borough of <hi>Horſham</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Midhurſt</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Lewes</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>New-Shoreham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Bramber</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Steyning</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Eaſt-Grimſtead</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Arundel</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Warwickſhire</hi> VI.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Coventry</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Warwick</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Weſtmerland</hi> IV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Apulby</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Wiltſhire</hi> XXXIV.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>New-Sarum</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Wilton</hi> alias <hi>Salisbury.</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Downton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Hindon</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Weſtbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Hetsbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Calne</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of the <hi>Devizes</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Chippenham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Malmsbury</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Cricklade</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <pb n="13" facs="tcp:30378:7"/>
+                  <row>
+                     <cell>Borough of <hi>Great Bedwin</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Lugderſal</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Old Sarum</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Wooton-Baſſet</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Marlborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Worceſterſhire</hi> IX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>Worceſter</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Droitwich</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Eveſham</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Bewdley</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>Yorkſhire</hi> XXX.</head>
+                  <row>
+                     <cell>Knights of the Shire</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>City of <hi>York</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Kingſton</hi> upon <hi>Hull</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Knaresborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Scaresborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Rippon</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Richmond</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Heyden</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Burrowbrig</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Malton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Thirske</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Alborough</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Beverly</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>North-Allerton</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Borough of <hi>Pontefract</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:30378:8"/>
+               <table>
+                  <head>Barons of the <hi>Cinque-Ports.</hi>
+                  </head>
+                  <row>
+                     <cell>Port of <hi>Haſtings, Suſſex</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Winchelſey, Suſſ.</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Town of <hi>Rye, Suſſex</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Port of <hi>new Rumney, Kent</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Port of <hi>Hyeth, Kent</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Port of <hi>Dover, Kent</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Port of <hi>Sandwich, Kent</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Port of <hi>Seaford, Suſſex.</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>WALES.</head>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Angleſey</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Bewmaris</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Breckſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Brecon</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Cardiganſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Cardigan</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Carmarthenſhire</hi> II.</head>
+                     <row>
+                        <cell>Knigt of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Carmarthen</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="15" facs="tcp:30378:8"/>
+                  <table>
+                     <head>
+                        <hi>Carnervon</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Carnervon</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Denbighſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Denbigh</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Flintſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Flint</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Glamorganſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Cardiffe</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Merioneth</hi> I.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Pembrokeſhire</hi> III.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Pembroke</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Haverford-weſt</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Montgomeryſhire</hi> II.</head>
+                     <row>
+                        <cell>Knight of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Montgomery</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Radnorſhire</hi> II.</head>
+                     <row>
+                        <cell>Knigt of the Shire</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Town of <hi>Radnor</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
